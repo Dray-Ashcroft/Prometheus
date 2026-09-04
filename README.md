@@ -1,33 +1,36 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Prometheus Synotrix Banner" width="100%">
+  <img src="assets/banner.png" alt="Prometheus Synotrix - Joint Simulator Banner" width="100%">
 </p>
 
 # 🦿 Prometheus Synotrix
 
 ### *Interactive Human Joint Simulator*
 
-> An educational 3D simulator for exploring human joints, their structure, and movement through interactive anatomical visualization.
+> An educational 3D simulation exploring human joints, their structural organization, and patterns of movement through interactive anatomical visualization.
 
-**Human Anatomy · Joint Movement · Skeletal System**
+**🦿 Human Anatomy · 🔄 Joint Movement · 🧬 Skeletal System**
 
 ---
 
 ## ✦ Features
 
-**Interactive 3D Models**  
-Rotate, zoom, and examine simplified joint structures.
+**🦿 Interactive 3D Models**  
+Rotate, zoom, and explore simplified anatomical models of human joints.
 
-**Joint Movement**  
-Visualize movement across different joint types.
+**🔄 Joint Movement Simulation**  
+Visualize movement associated with different types of joints.
 
-**Anatomical Inspection**  
-Identify structures through interactive labels and visual exploration.
+**🔍 Inspect Mode**  
+Explore anatomical structures through interactive labels and visual identification.
 
-**NCERT Aligned**  
-Designed around core school-level Biology concepts.
+**📚 NCERT Aligned**  
+Designed to support core school-level Biology concepts related to the skeletal system and joints.
 
-**Responsive Design**  
-Optimized for desktop, tablet, and mobile devices.
+**🧠 Educational Visualization**  
+Simplified anatomical models designed for conceptual understanding and interactive learning.
+
+**📱 Responsive Design**  
+Optimized for desktop and mobile devices.
 
 ---
 

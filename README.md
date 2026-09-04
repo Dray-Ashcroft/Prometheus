@@ -2,67 +2,59 @@
   <img src="assets/banner.png" alt="Prometheus Synotrix - Joint Simulator Banner" width="100%">
 </p>
 
-# Prometheus Synotrix 
+# 🦴 Prometheus Synotrix
 
-Interactive 3D educational simulator for exploring human joints through intuitive visualization and animation, aligned with the latest NCERT curriculum.
+### *Interactive Human Joint Simulator*
 
----
+> An educational 3D simulation exploring human joints, their structural organization, and patterns of movement through interactive anatomical visualization.
 
-## ✨ Features
-
-- **Interactive 3D Models:** Rotate, zoom, and inspect human joints.
-- **Joint Movement Simulation:** Visualize realistic movement of different joint types.
-- **NCERT Aligned:** Designed specifically for school-level biology.
-- **Inspect Mode:** Explore anatomical structures through interactive labels.
-- **Educational First:** Simplified anatomical models for conceptual understanding.
+**🦴 Human Anatomy · 🔄 Joint Movement · 🧬 Skeletal System**
 
 ---
 
-## 🦴 Included Joint Types
+## ✦ Features
 
-- Ball-and-Socket Joint
-- Hinge Joint
-- Pivot Joint
-- Cartilagenous Joint
-- Synovial Joint
-- Fixed (Fibrous) Joint
+**🦴 Interactive 3D Models**  
+Rotate, zoom, and explore simplified anatomical models of human joints.
+
+**🔄 Joint Movement Simulation**  
+Visualize movement associated with different types of joints.
+
+**🔍 Inspect Mode**  
+Explore anatomical structures through interactive labels and visual identification.
+
+**📚 NCERT Aligned**  
+Designed to support core school-level Biology concepts related to the skeletal system and joints.
+
+**🧠 Educational Visualization**  
+Simplified anatomical models designed for conceptual understanding and interactive learning.
+
+**📱 Responsive Design**  
+Optimized for desktop and mobile devices.
 
 ---
 
-## 🚀 Built With & Hosted On
+## 🦴 Joint Types
 
-- **Repository:** GitHub
-- **Hosting:** Github Pages
+**Ball-and-Socket · Hinge · Pivot · Cartilaginous · Synovial · Fibrous**
 
 ---
 
-## 🛠️ Acknowledgments
+## ⚙️ Technology
 
-- **Moonshot AI (Kimi 2.6):** Initial structured code.
-- **Perplexity AI:** Code refinement and optimization.
-- **OpenAI:** Debugging, scientific validation.
-- **Claude (Anthropic Sonnet 5):** Final code architecture, UI implementation.
+**HTML · CSS · JavaScript**
+
+**Source:** GitHub  
+**Hosting:** GitHub Pages
 
 ---
 
 ## ⚠️ Educational Disclaimer
 
-This simulator was developed for educational purposes and is aligned with the latest NCERT curriculum.
-
-The anatomical models are simplified to improve learning and interactivity and should **not** be considered medically or anatomically exact representations.
-
----
-
-## 👤 Author
-
-**Draven Ashcroft**
-
-- M.Sc. Ag. Entomology
-- ASRB NET Qualified
-- DIPS Chain of Institutions
+This simulator is designed for educational purposes. Anatomical models are simplified for visualization and conceptual learning and should not be considered medically or anatomically exact representations.
 
 ---
 
 ## 📜 License
 
-GPL-3.0 License
+**GNU General Public License v3.0 (GPL-3.0)**

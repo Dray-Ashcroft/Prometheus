@@ -2,19 +2,19 @@
   <img src="assets/banner.png" alt="Prometheus Synotrix - Joint Simulator Banner" width="100%">
 </p>
 
-# 🦴 Prometheus Synotrix
+# 🩻 Prometheus Synotrix
 
 ### *Interactive Human Joint Simulator*
 
 > An educational 3D simulation exploring human joints, their structural organization, and patterns of movement through interactive anatomical visualization.
 
-**🦴 Human Anatomy · 🔄 Joint Movement · 🧬 Skeletal System**
+**🦿 Human Anatomy · 🔄 Joint Movement · 🧬 Skeletal System**
 
 ---
 
 ## ✦ Features
 
-**🦴 Interactive 3D Models**  
+**🦿 Interactive 3D Models**  
 Rotate, zoom, and explore simplified anatomical models of human joints.
 
 **🔄 Joint Movement Simulation**  
@@ -34,7 +34,7 @@ Optimized for desktop and mobile devices.
 
 ---
 
-## 🦴 Joint Types
+## 🦿 Joint Types
 
 **Ball-and-Socket · Hinge · Pivot · Cartilaginous · Synovial · Fibrous**
 
